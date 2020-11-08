@@ -1,15 +1,20 @@
 from Calculator.Calculator import Calculator
 from Statistics.Median import median
 from Statistics.Mode import mode
-
+from Statistics.StandardDeviation import stddev
 from Statistics.Variance import variance
 from Statistics.PopulationMean import populationmean
 from Statistics.Proportion import proportion
 from Statistics.ZScore import zscore
-
+from Statistics.CorrelationCoefficient import correlation
+from Statistics.VarianceOfPopulationProportion import variance_of_population_proportion
+from Statistics.ConfidenceIntervalTop import confidence_interval_top
+from Statistics.ConfidenceIntervalBottom import confidence_interval_bottom
 from Statistics.SampleMean import samplemean
 from Statistics.SampleStandardDeviation import samplestddev
-
+from Statistics.SampleVariance import samplevariance
+from Statistics.PValue import pvalue
+from CsvReader.CsvReader import CsvReader
 
 
 class Statistics(Calculator):
