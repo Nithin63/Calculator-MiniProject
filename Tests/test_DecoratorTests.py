@@ -5,7 +5,7 @@ import pprint
 
 @do_twice
 def say_whee():
-    print("Whee!")
+    print("Whee....!")
 
 
 @do_twice
