@@ -1,11 +1,11 @@
-from Calculator.SquareRoot import squarerooting
+from Calculator.SquareRoot import root
 from Statistics.Variance import variance
 
 
 def stddev(num):
     try:
         variance_float = variance(num)
-        return round(squarerooting(variance_float), 5)
+        return round(root(variance_float), 5)
     except ZeroDivisionError:
         print("Error: Can't Divide by 0")
     except ValueError:

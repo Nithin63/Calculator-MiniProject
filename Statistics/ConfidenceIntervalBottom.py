@@ -1,7 +1,4 @@
-from Calculator.Division import division
-from Calculator.Subtraction import subtraction
-from Calculator.Addition import addition
-from Calculator.SquareRoot import squarerooting
+from Calculator.SquareRoot import root
 from Statistics.PopulationMean import populationmean
 from Statistics.StandardDeviation import stddev
 
@@ -12,7 +9,7 @@ def confidence_interval_bottom(num):
         z = 1.96
         sd = stddev(num)
         avg = populationmean(num)
-        return round(avg - (z * sd / squarerooting(num_values)), 5)
+        return round(avg - (z * sd / root(num_values)), 5)
     except ZeroDivisionError:
         print("Error: Can't Divide by 0")
     except ValueError:
