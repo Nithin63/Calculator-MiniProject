@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/Nithinreddy127/Calculator-MiniProjet.svg?branch=master)](https://travis-ci.com/Nithinreddy127/Calculator-MiniProjet)
-# Calculator-MiniProjet
+# Calculator-MiniProject
 
 This project will have 2 parts:
 
@@ -13,7 +13,7 @@ Basic Calculations:
 
 Statistical Functions: 
 
-[Link to more information on Statistical Opertaions](https://github.com/Nithinreddy127/Calculator-MiniProject/edit/master/Contents)
+[Link to more information on Statistical Operations](https://github.com/Nithinreddy127/Calculator-MiniProject/edit/master/Contents)
 
 - [x] Population Mean
 - [x] Median
