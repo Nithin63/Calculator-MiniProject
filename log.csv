@@ -1,0 +1,392 @@
+commit 42dd196f884760f680768cab0f07476f5336cacf (HEAD -> master, origin/master, origin/HEAD)
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 22:03:05 2020 -0500
+
+    Task: Add content folder
+
+commit 2d565c0fec09319ca353955082911ff356718c7d
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sun Nov 8 21:58:29 2020 -0500
+
+    Fix : Update Changes in Readme.md
+
+commit 050432b04ee3d0fc5ce1f4e80e656ab5c2d41297
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sun Nov 8 21:51:58 2020 -0500
+
+    Fix: Update changes in readme code
+
+commit b20a02e70821517584750416007b967400af263b
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sun Nov 8 21:47:51 2020 -0500
+
+    Update README.md
+
+commit 8e0d99b24ddd750055f0c433aeb978db76baf9be (Patch1)
+Merge: 8524e74 8da4b35
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 01:25:30 2020 -0500
+
+    Merge pull request #23 from Nithinreddy127/Patch1
+
+    Fix: fix code
+
+commit 8da4b35765c5ab91f215e6f7a112b6fd0a3382ea (origin/Patch1)
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 01:24:40 2020 -0500
+
+    Fix: fix code
+
+commit 8524e74f2073d8dec55bd71c45d929b0b4f84b7f
+Merge: cdf48dc de98129
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 01:23:53 2020 -0500
+
+    Merge remote-tracking branch 'origin/master' into master
+
+commit cdf48dc54234fcdccafba6bc7cb8368e51efe6bc
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 01:23:25 2020 -0500
+
+    Fix: fix import mismatch
+
+commit de9812942468ed327ec5ff0f3d71e4de07447e42
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 01:11:58 2020 -0500
+
+    Feature : setup file
+
+commit 0b37882f14a71a9c255b78285fbf875ec7cfed56
+Merge: 48ba227 f84169d
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 01:09:00 2020 -0500
+
+    Merge pull request #22 from Nithinreddy127/Patch1
+
+    Feature: Build testing for Statistics done
+
+commit f84169d235db30ea330fd399367952e3437ad71f
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 01:06:36 2020 -0500
+
+    Feature: Build testing for Statistics done
+
+commit 48ba2272c5e95b6e935bbb7c0c183b6da06c666a
+Merge: 82fda6d ccc6c21
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sun Nov 8 00:59:30 2020 -0500
+
+    Merge pull request #21 from Nithinreddy127/Patch1
+
+    Patch1
+
+commit ccc6c21f1c064b61dbf0963b68a4c544957ed1a1
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:56:39 2020 -0500
+
+    Fix : import library
+
+commit 5d217d28585256a2b0e7d4d797366543518cc34f
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:55:22 2020 -0500
+
+    Task : variance of population file
+
+commit a69f91fba104ae2997dc04018fbbff36e2d35e19
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:54:22 2020 -0500
+
+    Task : standard deviation file
+
+commit 20d70adec4bdb65d67856290f8c4acccdd8d6e31
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:53:23 2020 -0500
+
+    Task : sample variance file
+
+commit f033a6dbac20a25798a54d2c61de0d11fba8471d
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:52:02 2020 -0500
+
+    Task: pvalue file
+
+commit d1ef2bd3c541a2ed01f7a543448e6b0914e652ca
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:50:41 2020 -0500
+
+    Task : Added coefficient correlation file
+
+commit abec0cd990f83d2b1c3c9fda3ed5f41066dff85d
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:49:39 2020 -0500
+
+    Task : Confidenceinterval top added
+
+commit a44a826068863dabd5edd2a776ac4e135b44de26
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sun Nov 8 00:48:41 2020 -0500
+
+    Task : confidenceinterval added
+
+commit 82fda6d53f9ddbf9fa5816c1f339918375b0433f
+Merge: 120487d 7e41256
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sun Nov 8 00:45:26 2020 -0500
+
+    Merge pull request #20 from Nithinreddy127/Patch1
+
+    Patch1
+
+commit 7e4125677584b090b402ac72348b118844cac2ec
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 00:44:10 2020 -0500
+
+    Fix: fix code in Variance and proportion
+
+commit 169c843456028ccd3c52f72441da2fbd6f9e4386
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 00:42:09 2020 -0500
+
+    Fix: fix code in Statistics.py
+
+commit f665a362e5bfe4ed6b0b66379ffb43a0b445566e
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sun Nov 8 00:41:07 2020 -0500
+
+    Task: Create Statistics directory and add Statistics operations
+
+commit 120487de060e281f082b558e4e1b53868410368e
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 22:02:17 2020 -0500
+
+    Update README.md
+
+commit 275e53eba31e5f4d05f9adf63884157621da44cf
+Merge: e185889 6de114a
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 21:56:58 2020 -0500
+
+    Merge pull request #16 from Nithinreddy127/Patch1
+
+    Patch1
+
+commit 6de114a1efb8a62126bb34f4cc92b376a9f31ca6
+Merge: e894f8f d641fae
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:56:20 2020 -0500
+
+    Merge remote-tracking branch 'origin/Patch1' into Patch1
+
+commit e894f8f6e07dcc0fd24916f8da8b032e3f11223d
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:56:09 2020 -0500
+
+    Task: Added absolute path and decorator file
+
+commit e185889c375e613278a794dfdb3892bbf1063c73
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:52:06 2020 -0500
+
+    Fix : code changes
+
+commit d641fae5728538aca0b7d8c629deee71b469e9fa
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:50:48 2020 -0500
+
+    Fix : code changes
+
+commit 33ca067eb9882e13fab4f3b37ac2407adfdea0f1
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:48:31 2020 -0500
+
+    Rename travis.yml to .travis.yml
+
+commit 309ed5b7a43686a45e2ea555ac1efbef292cf48f
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:47:59 2020 -0500
+
+    Rename travis.yml to .travis.yml
+
+commit 03e4f4e25a58acb29523e995ae6de9428931eea2
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 21:41:17 2020 -0500
+
+    Update travis.yml
+
+commit 744646dd433b682659028fadaa1889cb58975887
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 21:40:42 2020 -0500
+
+    Fix code
+
+commit c0eac4fd844e037d4a708cdefe3f440a3075f435
+Merge: 5a950c3 9de5f62
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:32:09 2020 -0500
+
+    Merge pull request #15 from Nithinreddy127/Patch1
+
+    Task: Added absolute path and decorator file
+
+commit 9de5f620007a0e70658145f2d8c8246577ca1a4a
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:29:32 2020 -0500
+
+    Task: Added absolute path and decorator file
+
+commit 5a950c397b4493c24343cdc2492952b54ba7a521
+Merge: 82d0af7 1413c16
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 21:14:40 2020 -0500
+
+    Merge pull request #12 from Nithinreddy127/Patch1
+
+    Task: CSV files added to data folder
+
+commit 1413c16a8d349f111db890d0494746128e4d70e0
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:13:29 2020 -0500
+
+    Task: CSV files added to data folder
+
+commit 82d0af76052f8a2805b7a7ab180dac66a05464e2
+Merge: d904057 7e7ef7e
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:12:00 2020 -0500
+
+    Merge pull request #11 from Nithinreddy127/Patch1
+
+    Patch1
+
+commit 7e7ef7e647dceeac97e9e2aa7b1cf83304b69f5d
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:09:30 2020 -0500
+
+    Task: CSV files added to data folder
+
+commit aeb54c6edb2c5e7bb74dcce8ea6806e70955fc80
+Merge: e92f7df d904057
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:06:10 2020 -0500
+
+    Merge branch 'master' of github.com:Nithinreddy127/Calculator-MiniProjet into Patch1
+
+commit e92f7df005c18ea459bb0127c7bc732540b9ac39
+Merge: b197c13 d5b8a8b
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 21:05:53 2020 -0500
+
+    Merge branch 'Patch1' of github.com:Nithinreddy127/Calculator-MiniProjet into Patch1
+
+commit d904057b99825ce22b8d318be011a7191acb9749
+Merge: 1c085ef d5b8a8b
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 21:03:54 2020 -0500
+
+    Merge pull request #10 from Nithinreddy127/Patch1
+
+    Patch1
+
+commit d5b8a8b71b0d60f4d1625d994dd78d4106cb74cd
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 21:03:16 2020 -0500
+
+    Delete test_StatisticsTests.py
+
+commit ec5302a4b34185c3e61bc5562cf14d977c9fef2e
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:57:57 2020 -0500
+
+    Task : Statics file creation
+
+commit ed60a91f46beef44237d392e8fed2046177887c7
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:56:58 2020 -0500
+
+    Task : added decorator file
+
+commit 3665c648053c34fc223f5c2c21605dfceb9154c0
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:55:48 2020 -0500
+
+    Task : unit test for csv created
+
+commit 66385c1d5e7ff7374233da2a21897d344383a4d0
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:54:30 2020 -0500
+
+    Task : added test file
+
+commit 1c085efc254131bd92adb297a450fc11a3ff2aa6
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:53:40 2020 -0500
+
+    Delete test_CalculatorTests.py
+
+commit e0be6ab8551dc3af1271c22247b95e0e61b32f9c
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:53:12 2020 -0500
+
+    Task : Added test file
+
+commit 886555c8c3f54a6952e98c183245d5738a3f18fe
+Merge: c3d4e11 0bc101a
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 20:49:50 2020 -0500
+
+    Merge pull request #7 from Nithinreddy127/Patch1
+
+    Task : csv reader python file created
+
+commit 0bc101a817ee1bdf6f397bc5d2e5737e9446bc1b
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:47:29 2020 -0500
+
+    Task : csv reader python file created
+
+commit c3d4e1197dba0d05fa53f28cb09d63470ad78cd2
+Merge: 17fc058 b3d04c6
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:44:01 2020 -0500
+
+    Merge pull request #6 from Nithinreddy127/Patch1
+
+    Feature:Calculator directory with mathematical operations
+
+commit b197c131c5da4a94fcd2a8dd229c61fb544029cd
+Merge: b3d04c6 17fc058
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 20:42:55 2020 -0500
+
+    Merge branch 'master' of github.com:Nithinreddy127/Calculator-MiniProjet into Patch1
+
+commit b3d04c6b9f6cef99e16cc88efc7d4e6f943d1585
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 20:39:34 2020 -0500
+
+    Feature:Calculator directory with mathematical operations
+
+commit 17fc0589888725fd9e2ff86536caf01f81397dad
+Author: suraj vishwakarma <vishwakarmasuraj0@gmail.com>
+Date:   Sat Nov 7 20:30:19 2020 -0500
+
+    Task : add travis file
+
+commit c455a0aa66ba3527354a873b7365d1d4b18259bb
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 20:24:35 2020 -0500
+
+    Task:Docker files added
+
+commit 85204502db8d66c28baffc3ca388794806f6281e
+Author: Nithinreddy127 <nithinreddy127@gmail.com>
+Date:   Sat Nov 7 20:23:12 2020 -0500
+
+    Task:Project Skeleton Created
+
+commit 9836894886a545b878f8088fb7fa5ed4a7201226
+Author: Nithinre63 <58956816+Nithinreddy127@users.noreply.github.com>
+Date:   Sat Nov 7 20:01:47 2020 -0500
+
+    Initial commit
+(END)     
