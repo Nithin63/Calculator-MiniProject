@@ -13,7 +13,7 @@ Basic Calculations:
 
 Statistical Functions: 
 
-[Link to more information on Statistical Opertaions](https://github.com/Nithinreddy127/Calculator-MiniProjet/edit/master/Content)
+[Link to more information on Statistical Opertaions](https://github.com/Nithinreddy127/Calculator-MiniProjet/edit/master/Contents)
 
 - [x] Population Mean
 - [x] Median
