@@ -15,7 +15,7 @@ Basic Calculations:
 
 Statistical Functions: 
 
-[Link to References Directory](https://github.com/Nithinreddy127/Calculator-MiniProjet/master/Content)
+[Link to Statistical Operations](https://github.com/Nithinreddy127/Calculator-MiniProjet/master/Content)
 
 - [x] Population Mean
 - [x] Median
