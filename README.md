@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/Nithinreddy127/Calculator-MiniProjet.svg?branch=master)](https://travis-ci.com/Nithinreddy127/Calculator-MiniProjet)
 # Calculator-MiniProjet
 
-##Contributors for the Project are Nithin Reddy AR and Suraj Vishwakarma
+## Contributors for the Project are Nithin Reddy AR and Suraj Vishwakarma
 
 This project will have 2 parts:
 
